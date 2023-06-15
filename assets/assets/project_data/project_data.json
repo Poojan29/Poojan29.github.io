@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "project_name": "Chatt Engine",
+        "project_description": "This is a simple chatt application",
+        "project_url": "https://www.github.com/Poojan29/ChatEngine",
+        "tech_used": [
+            "Android",
+            "Firebase",
+            "Recycler view",
+            "Piccaso"
+        ]
+    },
+    {
+        "id": 2,
+        "project_name": "Gallary management",
+        "project_description": "This is a simple Gallary management application",
+        "project_url": "https://github.com/Poojan29/Gellary-Management",
+        "tech_used": [
+            "Flutter",
+            "Dart"
+        ]
+    },
+    {
+        "id": 3,
+        "project_name": "Quiz Application",
+        "project_description": "This is a simple quiz application",
+        "project_url": "https://www.github.com/Poojan29/QuizApp",
+        "tech_used": [
+            "Android",
+            "Firebase",
+            "Recycler view"
+        ]
+    },
+    {
+        "id": 4,
+        "project_name": "Saira Asia Interiors",
+        "project_description": "This is a simple attendance management application",
+        "project_url": "https://www.github.com/Poojan29/SairaAsiaInteriors",
+        "tech_used": [
+            "Android",
+            "Firebase",
+            "Recycler view"
+        ]
+    },
+    {
+        "id": 5,
+        "project_name": "Portfolio (Website)",
+        "project_description": "This is a portfolio website",
+        "project_url": "https://www.github.com/Poojan29/Portfolio",
+        "tech_used": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 6,
+        "project_name": "Angle Bank",
+        "project_description": "This is a android application that describes full android MVVM architecture, android navigation library, android room database library, android theme and also used android preferances for creating setting screens in android.",
+        "project_url": null,
+        "tech_used": [
+            "Android",
+            "Room Database",
+            "Android Navigation Component",
+            "Preferances",
+            "MVVM Architecture",
+            "Recycler view"
+        ]
+    }
+]
